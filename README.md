@@ -15,7 +15,7 @@ The project uses historical sales data, performs exploratory data analysis (EDA)
 
 ---
 
-### *Tech Stack* 🛠
+### *Tech Stack* 
 
 * *Python* (pandas, numpy, matplotlib, seaborn)
 * *Statsmodels* (model training & evaluation)
@@ -23,7 +23,7 @@ The project uses historical sales data, performs exploratory data analysis (EDA)
 
 ---
 
-### *How to Run* 🚀
+### *How to Run* 
 
 1.  *Clone Repository*
     bash
