@@ -1,4 +1,4 @@
-## *Walmart Sales Dashboard* 📊
+## *Walmart Sales Dashboard* 
 
 A simple interactive dashboard for exploring and forecasting *Walmart weekly sales* built as part of the data science and machine learning bootcamp at tuwaiq academy. 
 The project uses historical sales data, performs exploratory data analysis (EDA), and builds a regression model to predict sales trends.
@@ -48,6 +48,10 @@ The project uses historical sales data, performs exploratory data analysis (EDA)
 * Abdulrahman attar
 
 ---
+
+### *Presentation Link*: https://udksa-my.sharepoint.com/:p:/g/personal/2200003176_iau_edu_sa/EcJhsNKi0XhHuwla1h-TD38B4xc2jpPrPF-2xwfoJ99jvQ?e=LZltVb
+
+### *Streamlit link*: https://wallmartdashboard-hpwqgmcyknk8smuxemgvmv.streamlit.app/
 
 ### *References*
 
